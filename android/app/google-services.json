@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691272563797",
+    "project_id": "towedd-82d1b",
+    "storage_bucket": "towedd-82d1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691272563797:android:10fb9dd2b62373790b28dc",
+        "android_client_info": {
+          "package_name": "com.example.towedd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691272563797-4nctfb697qpg1uj0663r50qmj3dtl19v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.towedd",
+            "certificate_hash": "e46af05aed2c45920fed2205eeef3c8f0f85414f"
+          }
+        },
+        {
+          "client_id": "691272563797-n29amvchastu8ihse2lbj549vbtkukem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-WWcPT_w7zs7jQyzW3NQlxr7r2trycw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691272563797-n29amvchastu8ihse2lbj549vbtkukem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
